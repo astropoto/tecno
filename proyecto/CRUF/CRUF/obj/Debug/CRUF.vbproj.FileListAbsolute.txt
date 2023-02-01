@@ -1,0 +1,29 @@
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\bin\Debug\CRUF.exe.config
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\bin\Debug\CRUF.exe
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\bin\Debug\CRUF.pdb
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\bin\Debug\CRUF.xml
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.vbprojResolveAssemblyReference.cache
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.admin.resources
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.Form1.resources
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.Resources.resources
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.secre.resources
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.users.resources
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.vbproj.GenerateResource.Cache
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.exe
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.xml
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\obj\Debug\CRUF.pdb
+C:\Users\yoshu\Desktop\TAREA\CRUF\CRUF\bin\Debug\Guna.UI.dll
+E:\josue cifuentes ga1\CRUF\CRUF\bin\Debug\CRUF.exe.config
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.exe
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.xml
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.pdb
+E:\josue cifuentes ga1\CRUF\CRUF\bin\Debug\CRUF.exe
+E:\josue cifuentes ga1\CRUF\CRUF\bin\Debug\CRUF.pdb
+E:\josue cifuentes ga1\CRUF\CRUF\bin\Debug\CRUF.xml
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.vbprojResolveAssemblyReference.cache
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.admin.resources
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.Form1.resources
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.Resources.resources
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.secre.resources
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.users.resources
+E:\josue cifuentes ga1\CRUF\CRUF\obj\Debug\CRUF.vbproj.GenerateResource.Cache
